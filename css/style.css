@@ -2,3 +2,37 @@
     margin: 0;
     padding: 0;
 }
+
+.carousel-item, .carousel-inner {
+    height: 650px;
+}
+
+.imageSlide_1 {
+    background-image: url("../img/pexels-pixabay-258447.jpg");
+    background-size: cover;
+    height: 100%;
+}
+
+.imageSlide_2 {
+    background-image: url("../img/pexels-andrey-grushnikov-712473.jpg");
+    background-size: cover;
+    height: 100%;
+}
+
+.imageSlide_3 {
+    background-image: url("../img/pexels-math-21393.jpg");
+    background-size: cover;
+    height: 100%;
+}
+
+.imageSlide_4 {
+    background-image: url("../img/pexels-pixabay-256541.jpg");
+    background-size: cover;
+    height: 100%;
+}
+
+.imageSlide_5 {
+    background-image: url("../img/pexels-pixabay-356056.jpg");
+    background-size: cover;
+    height: 100%;
+}
